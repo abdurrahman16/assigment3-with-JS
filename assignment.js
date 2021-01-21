@@ -73,7 +73,7 @@ function hotelCost (day){
         
 }
 
-console.log(hotelCost(11));  //checking functionality;
+console.log(hotelCost(11));  //checking functionality 
 
 
 
