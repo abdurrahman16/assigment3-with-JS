@@ -1,6 +1,6 @@
 
 
-// 1. ilometer To meter using javaScript
+//1. ilometer To meter using javaScript
 
 function kilometerToMeter (kilometers){
     var resultInMeter = kilometers*1000; //we know 1km = 1000m;

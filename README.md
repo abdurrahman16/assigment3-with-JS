@@ -1,1 +1,1 @@
-# assigment3-with-JS
+# assignment-problem-solving-withJS
